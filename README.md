@@ -4,7 +4,8 @@ Live: https://yasinakgulbp.github.io/
 
 This repository contains only public website files. The Akış app source is in the separate private `akis-reading` repository. Signing keys, passwords and account credentials must never be added here.
 
-- `index.html`: studio/app introduction and support contact.
+- `index.html`: BP96 STUDIO studio site (work, studio, the mark, founder, contact). Styles, script, logo and images are in `assets/`.
+- `readstride.html`: Readstride (formerly Akış) app introduction and support page.
 - `privacy.html`: Turkish and English privacy policies, distinguished by app version.
 - `app-ads.txt`: BP96 AdMob authorized seller declaration at the website root.
 - `.nojekyll`: serve these static files directly.
